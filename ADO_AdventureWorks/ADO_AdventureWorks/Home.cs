@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ADO_AdventureWorks
 {
-    public partial class ConnectDB : Form
+    public partial class Home : Form
     {
-        public ConnectDB()
+        public Home()
         {
             InitializeComponent();
         }

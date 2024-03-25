@@ -1,1 +1,12 @@
 D:\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\bin\Debug\ADO_AdventureWorks.exe.config
+D:\A. Lập Trình Cơ Sỡ Dữ Liệu\HomeWork\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\obj\Debug\ADO_AdventureWorks.csproj.AssemblyReference.cache
+D:\A. Lập Trình Cơ Sỡ Dữ Liệu\HomeWork\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\obj\Debug\ADO_AdventureWorks.ConnectDB.resources
+D:\A. Lập Trình Cơ Sỡ Dữ Liệu\HomeWork\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\obj\Debug\ADO_AdventureWorks.Properties.Resources.resources
+D:\A. Lập Trình Cơ Sỡ Dữ Liệu\HomeWork\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\obj\Debug\ADO_AdventureWorks.csproj.GenerateResource.cache
+D:\A. Lập Trình Cơ Sỡ Dữ Liệu\HomeWork\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\obj\Debug\ADO_AdventureWorks.csproj.CoreCompileInputs.cache
+D:\A. Lập Trình Cơ Sỡ Dữ Liệu\HomeWork\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\bin\Debug\ADO_AdventureWorks.exe.config
+D:\A. Lập Trình Cơ Sỡ Dữ Liệu\HomeWork\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\bin\Debug\ADO_AdventureWorks.exe
+D:\A. Lập Trình Cơ Sỡ Dữ Liệu\HomeWork\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\bin\Debug\ADO_AdventureWorks.pdb
+D:\A. Lập Trình Cơ Sỡ Dữ Liệu\HomeWork\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\obj\Debug\ADO_AdventureWorks.exe
+D:\A. Lập Trình Cơ Sỡ Dữ Liệu\HomeWork\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\obj\Debug\ADO_AdventureWorks.pdb
+D:\A. Lập Trình Cơ Sỡ Dữ Liệu\HomeWork\ADO_AdventureWork\ADO_AdventureWorks\ADO_AdventureWorks\obj\Debug\ADO_AdventureWorks.Home.resources
